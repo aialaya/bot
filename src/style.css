@@ -1,0 +1,50 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  .van-popup {
+    position: fixed;
+    max-height: 100%;
+    overflow-y: auto;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+    transition: var(--van-popup-transition);
+    -webkit-overflow-scrolling: touch
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  overflow-x: hidden;
+  /*min-width: 320px;*/
+  /*min-height: 100vh;*/
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+  background-color: #222436;
+}
+
+.nav_padding {
+  padding: 15px 0;
+}
+.container_margin {
+  margin: 10px;
+}
+.left_margin {
+  margin-left: 10px;
+}
+.ellipsis_line {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.select_btn {
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  user-select: none;
+}

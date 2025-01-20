@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 110 176.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_35);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_28);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_12);
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_12-2);
+        stroke: #985300;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_28" data-name="未命名的渐变 28" x1="28" y1="48.58" x2="82.53" y2="48.58" gradientUnits="userSpaceOnUse">
+      <stop offset=".5" stop-color="#fabd0b"/>
+      <stop offset=".5" stop-color="#f4a70e"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_35" data-name="未命名的渐变 35" x1="55" y1="66.17" x2="55" y2="176.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e99407"/>
+      <stop offset="1" stop-color="#d07101"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_12" data-name="未命名的渐变 12" x1="55" y1="70.17" x2="55" y2="172.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fffe76"/>
+      <stop offset="1" stop-color="#f6cc40"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_12-2" data-name="未命名的渐变 12" y1="76.67" y2="165.67" xlink:href="#_未命名的渐变_12"/>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <polygon class="cls-2" points="55 0 28 97.17 82.53 97.17 55 0"/>
+      <circle class="cls-1" cx="55" cy="121.17" r="55"/>
+      <circle class="cls-3" cx="55" cy="121.17" r="51"/>
+      <circle class="cls-4" cx="55" cy="121.17" r="44.5"/>
+    </g>
+  </g>
+</svg>
